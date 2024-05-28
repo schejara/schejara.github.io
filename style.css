@@ -1,1 +1,14 @@
-
+h1{
+  color:blue;
+  
+}
+h2{
+  color:indigo;
+}
+.mail{
+  color:green;
+}
+body{
+  margin :10% 20%;
+  font-family:Arial,,sans-serif;
+}
